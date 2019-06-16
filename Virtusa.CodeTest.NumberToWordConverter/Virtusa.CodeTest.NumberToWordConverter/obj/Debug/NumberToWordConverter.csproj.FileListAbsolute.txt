@@ -1,0 +1,5 @@
+C:\Users\phani_kumari_kesavar\Desktop\SreeGanesh\Virtusa\Virtusa.CodeTest.NumberToWordConverter\Virtusa.CodeTest.NumberToWordConverter\bin\Debug\Virtusa.CodeTest.NumberToWordConverter.exe.config
+C:\Users\phani_kumari_kesavar\Desktop\SreeGanesh\Virtusa\Virtusa.CodeTest.NumberToWordConverter\Virtusa.CodeTest.NumberToWordConverter\bin\Debug\Virtusa.CodeTest.NumberToWordConverter.exe
+C:\Users\phani_kumari_kesavar\Desktop\SreeGanesh\Virtusa\Virtusa.CodeTest.NumberToWordConverter\Virtusa.CodeTest.NumberToWordConverter\obj\Debug\NumberToWordConverter.csproj.CoreCompileInputs.cache
+C:\Users\phani_kumari_kesavar\Desktop\SreeGanesh\Virtusa\Virtusa.CodeTest.NumberToWordConverter\Virtusa.CodeTest.NumberToWordConverter\obj\Debug\Virtusa.CodeTest.NumberToWordConverter.exe
+C:\Users\phani_kumari_kesavar\Desktop\SreeGanesh\Virtusa\Virtusa.CodeTest.NumberToWordConverter\Virtusa.CodeTest.NumberToWordConverter\obj\Debug\Virtusa.CodeTest.NumberToWordConverter.pdb

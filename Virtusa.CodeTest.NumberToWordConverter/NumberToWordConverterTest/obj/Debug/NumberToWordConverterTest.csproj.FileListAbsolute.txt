@@ -1,0 +1,1 @@
+C:\Users\phani_kumari_kesavar\Desktop\SreeGanesh\Virtusa\Virtusa.CodeTest.NumberToWordConverter\NumberToWordConverterTest\obj\Debug\NumberToWordConverterTest.csproj.CoreCompileInputs.cache
